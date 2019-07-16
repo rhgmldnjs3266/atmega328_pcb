@@ -1,0 +1,28 @@
+\t (00:00:01) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:01)     Journal start - Tue Jul 16 17:33:20 2019
+\t (00:00:01)         Host=USER-PC User=user Pid=10500 CPUs=4
+\t (00:00:01) CmdLine= C:\Users\user\Desktop\vscode_orcad\cdns\cdns\tools\pcb\bin\allegro.exe -orcad -mpssession user C:\USERS\USER\DESKTOP\WORK\ATMEGA328\allegro\ATMEGA328.brd
+\t (00:00:01) 
+   (00:00:01) ilinit Start.
+   (00:00:01) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: C:/USERS/USER/DESKTOP/WORK/ATMEGA328/allegro/ATMEGA328.brd
+\i (00:00:03) trapsize 10372
+\i (00:00:03) trapsize 10186
+\i (00:00:03) trapsize 10404
+\i (00:00:04) trapsize 9189
+\i (00:00:04) trapsize 13682
+\i (00:00:04) generaledit 
+\i (00:00:06) place manual 
+\i (00:00:07) setwindow form.plc_manual
+\i (00:00:07) FORM plc_manual tree 'MULTISEL YES' IC2 'Components by refdes' 
+\e (00:00:07) Cannot load symbol 'MY_ATMEGA328_DIP'
+\i (00:00:07) FORM plc_manual tree  IC2 'Components by refdes' 
+\i (00:01:19) FORM plc_manual tree 'MULTISEL NO' IC2 'Components by refdes' 
+\i (00:01:21) FORM plc_manual cancel  
+\i (00:01:22) setwindow pcb
+\i (00:01:22) generaledit 
+\i (00:01:22) exit 
+\e (00:01:22) Do you want to save the changes you made to ATMEGA328.brd?
+\i (00:01:24) fillin no 
+\t (00:01:24)     Journal end - Tue Jul 16 17:34:43 2019

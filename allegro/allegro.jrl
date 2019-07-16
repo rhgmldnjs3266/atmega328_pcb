@@ -1,0 +1,250 @@
+\t (00:00:01) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:01)     Journal start - Tue Jul 16 17:34:55 2019
+\t (00:00:01)         Host=USER-PC User=user Pid=11320 CPUs=4
+\t (00:00:01) CmdLine= C:\Users\user\Desktop\vscode_orcad\cdns\cdns\tools\pcb\bin\allegro.exe -orcad -mpssession user C:\USERS\USER\DESKTOP\WORK\ATMEGA328\allegro\ATMEGA328.brd
+\t (00:00:01) 
+   (00:00:01) ilinit Start.
+   (00:00:01) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: C:/USERS/USER/DESKTOP/WORK/ATMEGA328/allegro/ATMEGA328.brd
+\i (00:00:03) trapsize 10372
+\i (00:00:03) trapsize 10186
+\i (00:00:03) trapsize 10404
+\i (00:00:04) trapsize 9189
+\i (00:00:04) trapsize 13682
+\i (00:00:04) generaledit 
+\i (00:00:09) place manual 
+\i (00:00:10) setwindow form.plc_manual
+\i (00:00:10) FORM plc_manual tree  IC2 'Components by refdes' 
+\i (00:00:11) FORM plc_manual tree 'MULTISEL YES' IC2 'Components by refdes' 
+\w (00:00:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:11) Placing IC2 / ATMEGA8-TQFP32_1_MY_ATMEGA328_D / MY_ATMEGA328_DIP on Top.
+\i (00:00:15) setwindow pcb
+\i (00:00:15) pick grid 7415.42 13271.14
+\t (00:00:15) last pick:  7400.00 13300.00
+\i (00:00:16) setwindow form.plc_manual
+\i (00:00:16) FORM plc_manual tree 'MULTISEL YES' IC3 'Components by refdes' 
+\t (00:00:16) Placing IC3 / ATMEGA8-TQFP32_1_MY_ATMEGA328_D / MY_ATMEGA328_DIP on Top.
+\i (00:00:16) FORM plc_manual tree  IC3 'Components by refdes' 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) pick grid 5363.18 13271.14
+\t (00:00:19) last pick:  5400.00 13300.00
+\i (00:00:20) Esc 
+\i (00:00:20) Esc 
+\i (00:00:22) setwindow form.plc_manual
+\i (00:00:22) FORM plc_manual done  
+\i (00:00:22) setwindow pcb
+\i (00:00:22) generaledit 
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 7634.33 10945.27
+\i (00:00:23) trapsize 6841
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 7634.33 10945.28
+\i (00:00:23) trapsize 3420
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 7634.33 10945.28
+\i (00:00:23) trapsize 1710
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 7740.36 10897.39
+\i (00:00:23) trapsize 855
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 7740.36 10897.40
+\i (00:00:23) trapsize 428
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 7740.36 10897.40
+\i (00:00:23) trapsize 214
+\i (00:00:24) roam x -96 
+\i (00:00:24) roam x -96
+\i (00:00:24) roam x -96 
+\i (00:00:24) roam x -96
+\i (00:00:24) roam x -96 
+\i (00:00:24) roam x -96
+\i (00:00:24) roam x -96 
+\i (00:00:24) roam x -96
+\i (00:00:25) roam x -96 
+\i (00:00:25) roam x -96
+\i (00:00:25) roam x -96 
+\i (00:00:25) roam x -96
+\i (00:00:25) roam x -96 
+\i (00:00:25) roam x -96
+\i (00:00:25) roam x -96 
+\i (00:00:25) roam x -96
+\i (00:00:25) roam x -96 
+\i (00:00:25) roam x -96
+\i (00:00:25) roam x -96 
+\i (00:00:25) roam x -96
+\i (00:00:25) roam x -96 
+\i (00:00:25) roam x -96
+\i (00:00:25) roam x -96 
+\i (00:00:25) roam x -96
+\i (00:00:25) roam x -96 
+\i (00:00:25) roam x -96
+\i (00:00:25) roam x -96 
+\i (00:00:25) roam x -96
+\i (00:00:25) roam x -96 
+\i (00:00:25) roam x -96
+\i (00:00:25) roam x -96 
+\i (00:00:25) roam x -96
+\i (00:00:25) roam x -96 
+\i (00:00:25) roam x -96
+\i (00:00:25) roam x -96 
+\i (00:00:25) roam x -96
+\i (00:00:25) roam x -96 
+\i (00:00:25) roam x -96
+\i (00:00:25) roam x -96 
+\i (00:00:25) roam x -96
+\i (00:00:25) roam x -96 
+\i (00:00:25) roam x -96
+\i (00:00:25) roam x -96 
+\i (00:00:25) roam x -96
+\i (00:00:25) roam x -96 
+\i (00:00:25) roam x -96
+\i (00:00:25) roam x -96 
+\i (00:00:25) roam x -96
+\i (00:00:25) roam x -96 
+\i (00:00:25) roam x -96
+\i (00:00:25) roam x -96 
+\i (00:00:25) roam x -96
+\i (00:00:25) roam x -96 
+\i (00:00:26) roam x -96
+\i (00:00:26) roam x -96 
+\i (00:00:26) roam x -96
+\i (00:00:26) roam x -96 
+\i (00:00:26) roam x -96
+\i (00:00:26) roam x -96 
+\i (00:00:26) roam x -96
+\i (00:00:26) roam x -96 
+\i (00:00:26) roam x -96
+\i (00:00:26) roam x -96 
+\i (00:00:26) roam x -96
+\i (00:00:26) roam x -96 
+\i (00:00:26) roam x -96
+\i (00:00:26) roam x -96 
+\i (00:00:26) roam x -96
+\i (00:00:26) roam x -96 
+\i (00:00:26) roam x -96
+\i (00:00:26) roam x -96 
+\i (00:00:26) roam x -96
+\i (00:00:26) roam x -96 
+\i (00:00:26) roam x -96
+\i (00:00:26) roam x -96 
+\i (00:00:26) roam x -96
+\i (00:00:26) roam x -96 
+\i (00:00:26) roam x -96
+\i (00:00:26) roam x -96 
+\i (00:00:26) roam x -96
+\i (00:00:26) roam x -96 
+\i (00:00:26) roam x -96
+\i (00:00:27) roam y -96 
+\i (00:00:27) roam y -96
+\i (00:00:28) roam y -96 
+\i (00:00:28) roam y -96
+\i (00:00:28) roam y -96 
+\i (00:00:28) roam y -96
+\i (00:00:28) roam y -96 
+\i (00:00:28) roam y -96
+\i (00:00:28) roam y -96 
+\i (00:00:28) roam y -96
+\i (00:00:28) roam y -96 
+\i (00:00:28) roam y -96
+\i (00:00:28) roam y -96 
+\i (00:00:28) roam y -96
+\i (00:00:28) roam y -96 
+\i (00:00:28) roam y -96
+\i (00:00:28) roam y -96 
+\i (00:00:28) roam y -96
+\i (00:00:28) roam y -96 
+\i (00:00:28) roam y -96
+\i (00:00:28) roam y -96 
+\i (00:00:28) roam y -96
+\i (00:00:28) roam y -96 
+\i (00:00:28) roam y -96
+\i (00:00:28) roam y -96 
+\i (00:00:28) roam y -96
+\i (00:00:28) roam y -96 
+\i (00:00:28) roam y -96
+\i (00:00:28) roam y -96 
+\i (00:00:28) roam y -96
+\i (00:00:28) roam y -96 
+\i (00:00:28) roam y -96
+\i (00:00:28) roam y -96 
+\i (00:00:28) roam y -96
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 6063.53 11595.19
+\i (00:00:29) trapsize 428
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 6063.54 11595.19
+\i (00:00:29) trapsize 855
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 6063.53 11595.20
+\i (00:00:29) trapsize 1710
+\i (00:00:30) roam y -96 
+\i (00:00:30) roam y -96
+\i (00:00:30) roam y -96 
+\i (00:00:30) roam y -96
+\i (00:00:30) roam y -96 
+\i (00:00:30) roam y -96
+\i (00:00:31) roam y -96 
+\i (00:00:31) roam y -96
+\i (00:00:32) roam x -96 
+\i (00:00:32) roam x -96
+\i (00:00:32) roam x -96 
+\i (00:00:32) roam x -96
+\i (00:00:32) roam x -96 
+\i (00:00:32) roam x -96
+\i (00:00:32) roam x -96 
+\i (00:00:32) roam x -96
+\i (00:00:40) prepopup 5411.11 13120.74
+\i (00:00:42) pick grid 6556.95 12754.75
+\t (00:00:42) last pick:  6600.00 12800.00
+\i (00:02:05) save 
+\i (00:02:14) fillin yes 
+\i (00:02:14) generaledit 
+\i (00:04:25) prepopup 5448.73 12847.11
+\i (00:04:26) pick grid 5421.37 12956.56
+\t (00:04:26) last pick:  5400.00 13000.00
+\i (00:04:29) pick grid 4419.19 14027.15
+\t (00:04:29) last pick:  4400.00 14000.00
+\i (00:04:29) delete 
+\i (00:04:30) pick grid 5496.62 13052.33
+\t (00:04:30) last pick:  5500.00 13100.00
+\t (00:04:30) Symbol "Ic3"
+\i (00:04:30) prepopup 5496.62 13052.33
+\i (00:04:32) pick grid 5329.02 12977.08
+\t (00:04:32) last pick:  5300.00 13000.00
+\i (00:04:34) undo 
+\i (00:04:34) trapsize 1710
+\i (00:04:34) generaledit 
+\i (00:04:35) move 
+\t (00:04:35) Select element(s) to move.
+\i (00:04:36) pick grid 5356.38 13746.68
+\t (00:04:36) last pick:  5400.00 13700.00
+\t (00:04:36) last pick:  5400.00 13300.00
+\t (00:04:36) Moving IC3 / ATMEGA8-TQFP32_1_MY_ATMEGA328_D / MY_ATMEGA328_DIP.
+\t (00:04:36) Pick new location for the element(s).
+\i (00:04:37) prepopup 5397.43 13343.07
+\i (00:04:38) rotate 
+\t (00:04:38) Spin the element(s).
+\i (00:04:44) iangle 90.000
+\t (00:04:44) last angle:  90.000 Degrees
+\i (00:04:47) undo 
+\i (00:04:47) trapsize 1710
+\i (00:04:47) generaledit 
+\i (00:04:49) save 
+\i (00:04:51) fillin no 
+\i (00:04:53) fillin "menu_cancel"
+\i (00:04:53) generaledit 
+\i (00:04:55) save 
+\i (00:04:56) fillin yes 
+\i (00:04:56) generaledit 
+\i (00:05:17) exit 
+\t (00:05:17)     Journal end - Tue Jul 16 17:40:11 2019

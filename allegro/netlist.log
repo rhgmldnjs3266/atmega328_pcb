@@ -1,0 +1,13 @@
+{ Using PSTWRITER 16.6.0 d001Jul-16-2019 at 17:34:51 }
+
+#1 WARNING(ORCAP-36006): Part Name "ATMEGA8-TQFP32_1_MY_ATMEGA328_DIP_ATMEGA16U2-MU<R>" is renamed to "ATMEGA8-TQFP32_1_MY_ATMEGA328_D".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\USER\DESKTOP\WORK\ATMEGA328\allegro/pstchip.dat
+
+Loading... C:\USERS\USER\DESKTOP\WORK\ATMEGA328\allegro/pstchip.dat
+
+Loading... C:\USERS\USER\DESKTOP\WORK\ATMEGA328\allegro/pstxprt.dat
+
+Loading... C:\USERS\USER\DESKTOP\WORK\ATMEGA328\allegro/pstxnet.dat
+packaging the design view...
